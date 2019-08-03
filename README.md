@@ -3,6 +3,9 @@ Maven learnings
 
 This is very preliminary.
 
+
+# Tutorial Notes
+
 JAVA_HOME
 (M2_HOME)
 (M2) I did not need these
@@ -25,8 +28,6 @@ Seems out of date.
 build profiles
 plugin development
 
-
-# Tutorial Notes
 ## pom
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
