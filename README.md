@@ -3,6 +3,29 @@ Maven learnings
 
 This is very preliminary.
 
+JAVA_HOME
+(M2_HOME)
+(M2) I did not need these
+~/.m2
+local repository
+central repository
+parent pom
+mvn help:effective-pom
+conf or settings files in m2 install and ~/.mw.
+Seems out of date.
+      <dependencies>
+        <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.8.1</version>
+          <scope>test</scope>
+        </dependency>
+      </dependencies>
+
+build profiles
+plugin development
+
+
 # Tutorial Notes
 ## pom
 <project xmlns="http://maven.apache.org/POM/4.0.0"
